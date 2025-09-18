@@ -1,16 +1,18 @@
 # zybozzz
+Developer Information
+Rohith Njr
+Contact Number:7907455183
+Summary: Flutter developer with experience in building cross-platform mobile apps using Flutter, Bloc, and shared_preferences.
 
 A new Flutter project.
 
 ## Getting Started
+Project Overview
+Zybozzz is a Flutter mobile application using:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter SDK version ^3.8.1
+State management: flutter_bloc & equatable
+HTTP requests: http package
+Local storage: shared_preferences
+Material and Cupertino design support
+Assets are included in the project at: assets: - assets/images/
